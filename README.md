@@ -1,4 +1,4 @@
-# **Santhoshini Vallakatla** ![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)  
+# **Santhoshini Vallakatla**
 📍 Manville, NJ | [LinkedIn](https://www.linkedin.com/in/vsanthoshini) | vallakatlasanthoshini.official@gmail.com
 
 ---

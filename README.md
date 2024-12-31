@@ -18,14 +18,11 @@
 
 ### **💼 Work Experience**
 
-#### 1. Graduate Assistant  
-SNHU (05/2023 - 08/2024)
+#### 1. Developer 
+*Texas Review   
 
-#### 2. Developer 
-*Texas Review (04/2020 - 11/2022)*  
-
-#### 3. Junior Software Developer
-OLA (08/2019 - 01/2020)
+#### 2. Junior Software Developer
+OLA 
 
 
 ---

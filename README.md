@@ -20,11 +20,9 @@ Check out my [portfolio](https://santhoshini-portfolio.netlify.app/)
 
 ### **💼 Work Experience**
 
-#### 1. Developer 
-*Texas Review   
-
-#### 2. Junior Software Developer
-OLA 
+#### 1. Texas Review 
+*Developer   
+*Junior Software Developer 
 
 
 ---

@@ -1,5 +1,5 @@
 # **Santhoshini Vallakatla**
-📍 Manville, NJ | [LinkedIn](https://www.linkedin.com/in/vsanthoshini) | vallakatlasanthoshini.official@gmail.com
+📍 Manville, NJ | [LinkedIn](https://www.linkedin.com/in/vsanthoshini) | vallakatlasanthoshini@gmail.com
 
 ## Portfolio
 

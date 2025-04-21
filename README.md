@@ -1,9 +1,7 @@
-# **Santhoshini Vallakatla**
-📍 Manville, NJ | [LinkedIn](https://www.linkedin.com/in/vsanthoshini) | vallakatlasanthoshini@gmail.com
+# **Santhoshini**
+📍 United States | [LinkedIn](https://www.linkedin.com/in/vsanthoshini) | vallakatlasanthoshini@gmail.com
 
-## Portfolio
 
-Check out my [portfolio](https://santhoshini-portfolio.netlify.app/)
 ---
 
 ### **👩‍💻 About Me**

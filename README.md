@@ -1,5 +1,5 @@
 # **Santhoshini**
-📍 United States | [LinkedIn](https://www.linkedin.com/in/vsanthoshini) | vallakatlasanthoshini@gmail.com
+📍 United States | [LinkedIn](https://www.linkedin.com/in/vsanthoshini) | 
 
 
 ---

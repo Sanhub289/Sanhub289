@@ -95,26 +95,8 @@ Experienced with AWS cloud services including Lambda, S3, SQS, Kinesis, Firehose
   <img src="https://skillicons.dev/icons?i=prometheus" />
 </a>
 
-<a href="https://grafana.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/grafana/F46800" height="48" width="48"/>
-</a>
-
-<a href="https://github.com/features/copilot" target="_blank">
-  <img src="https://cdn.simpleicons.org/githubcopilot" height="48" width="48"/>
-</a>
-
-<a href="https://aws.amazon.com/q/" target="_blank">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="48" width="48"/>
-</a>
-
-<a href="https://aws.amazon.com/bedrock/" target="_blank">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="48" width="48"/>
-</a>
-
-<a href="https://openai.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/openai/412991" height="48" width="48"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" />
+  <img src="https://skillicons.dev/icons?i=ai" alt="AI Tools (General)" />  
 </p>
 
 ---

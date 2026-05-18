@@ -165,7 +165,7 @@ Full-stack logistics optimization application with shipment tracking and route o
 
 # 📜 Certifications
 
-- AWS Certified Solutions Architect
+- AWS Certified Solutions Architect - https://www.credly.com/badges/115f6373-2be0-42e0-8233-661bdc27ae80
 
 ---
 

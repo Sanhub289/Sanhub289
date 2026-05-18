@@ -1,48 +1,173 @@
-# **Santhoshini**
-📍 United States | [LinkedIn](https://www.linkedin.com/in/vsanthoshini) | 
+# Hi, I'm Santhoshini Vallakatla 👋
 
+### Software Engineer | AWS Certified Solutions Architect | Cloud & Backend Developer | Full Stack developer
 
----
+Software Engineer with experience designing and developing scalable backend systems and cloud-native applications using JavaScript, TypeScript, Node.js, and Java. Skilled in building microservices, RESTful APIs, and event-driven architectures for high-volume real-time platforms.
 
-### **👩‍💻 About Me**
-
-🎓 Recent **Master’s in Information Technology** graduate with a passion for **web development, cloud computing**, and **data management**. Experienced in Java, SQL, HTML/CSS, and React.js. Excited to bring my skills and creativity to innovative tech projects.
+Experienced with AWS cloud services including Lambda, S3, SQS, Kinesis, Firehose, IoT Core, and Infrastructure as Code using AWS CDK. Proficient in Docker, Kubernetes, CI/CD automation, observability, and AI-assisted development tools such as GitHub Copilot and Amazon Q Developer.
 
 ---
 
-### **🛠️ Skills**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+## 🚀 About Me
+
+- 💻 Backend & Full Stack Software Engineer
+- ☁️ AWS Certified Solutions Architect
+- 🔧 Experienced in AWS, Node.js, Java, TypeScript, Docker & Kubernetes
+- 📊 Interested in scalable cloud-native architectures and observability
+- 🤖 Passionate about AI-assisted software development and automation
+- 🌱 Currently working on AWS CDK migrations and event-driven systems
 
 ---
 
-### **💼 Work Experience**
+# 🛠️ Skills & Technologies
 
-#### 1. Texas Review 
-*Developer   
-*Junior Software Developer 
+<p align="left">
 
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" />
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=typescript" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</a>
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+<a href="https://angular.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=angular" />
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" />
+</a>
+
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+</a>
+
+<a href="https://www.jenkins.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=jenkins" />
+</a>
+
+<a href="https://redis.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=redis" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+</p>
 
 ---
 
-### **🌟 Projects**
+# 💼 Professional Experience
 
-#### **1. Logistic Pooling (Capstone Project)**  
-- Developed a **web application** to optimize road freight logistics with features like **dynamic dashboards** and **shipment tracking**.
-- Used **Excel** for data analysis and **Visio** to design ERDs for database optimization.
+## Software Engineer | Zenspace IT LLC
+📅 April 2025 – March 2026
 
-#### **2. SNHU-a-palooza Concert Series Website**  
-- Designed and developed a responsive website for a concert series, including **Google Calendar integration** and event management functionalities.
-- Managed multiple tasks effectively, demonstrating strong project management and creativity.
-
----
-
-### **📈 Education**  
-- **Master's in Information Technology**  
-  Southern New Hampshire University, NH, USA | **GPA: 3.9**  
-  *Jan 2023 - Aug 2024*  
+- Developed scalable backend microservices using Node.js and TypeScript
+- Built cloud-native applications using AWS Lambda, SQS, Kinesis, Firehose, and IoT Core
+- Migrated applications from Serverless Framework to AWS CDK
+- Implemented observability solutions using CloudWatch, Prometheus, and Grafana
+- Containerized and deployed services using Docker and Kubernetes
+- Improved developer productivity using GitHub Copilot and Amazon Q Developer
 
 ---
 
-### **🔗 Let's Connect**  
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vsanthoshini) or check out my projects on [GitHub](https://github.com/).
+## Programmer Analyst Intern | AVAN IT LLC
+📅 Dec 2024 – April 2025
+
+- Developed RESTful APIs and backend services using Node.js
+- Optimized SQL queries and improved application reliability
+- Supported AWS deployments and debugging activities
+- Collaborated in Agile/Scrum environments
+
+---
+
+## Developer | Texas Review
+📅 April 2021 – Nov 2022
+
+- Developed responsive web applications using Java, React.js, HTML5, and CSS3
+- Built and integrated REST APIs with enterprise systems
+- Improved application performance and streamlined workflows
+
+---
+
+# 📌 Featured Projects
+
+## 🚀 Destination Media CloudWatch AI
+
+Serverless AI-powered log analysis platform using AWS Lambda, CloudWatch, DynamoDB, EventBridge, and Amazon Bedrock AI.
+
+### Technologies Used
+`AWS CDK` `Node.js` `TypeScript` `Amazon Bedrock` `CloudWatch` `DynamoDB`
+
+---
+
+## 📺 Playrate ePaper Bridge
+
+Cross-platform Electron application for rendering Grafana/Prometheus dashboards on Chroma 29 ePaper displays.
+
+### Technologies Used
+`Node.js` `Express.js` `Grafana` `Prometheus` `Sharp` `Electron`
+
+---
+
+## 🚚 Logistic Pooling (Capstone Project)
+
+Full-stack logistics optimization application with shipment tracking and route optimization.
+
+### Technologies Used
+`Java` `SQL` `JavaScript` `HTML` `CSS`
+
+---
+
+# 📜 Certifications
+
+- AWS Certified Solutions Architect
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/vsanthoshini/
+- Email: vallakatlasanthoshini.official@gmail.com
+
+---
+
+⭐ Passionate about building scalable cloud-native applications, solving complex engineering problems, and continuously learning new technologies.

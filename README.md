@@ -103,8 +103,8 @@ Experienced with AWS cloud services including Lambda, S3, SQS, Kinesis, Firehose
 
 # 💼 Professional Experience
 
-## Software Engineer | Zenspace IT LLC
-📅 April 2025 – March 2026
+## Software Engineer | GSTV
+📅 May 2025 – Present
 
 - Developed scalable backend microservices using Node.js and TypeScript
 - Built cloud-native applications using AWS Lambda, SQS, Kinesis, Firehose, and IoT Core
@@ -115,7 +115,7 @@ Experienced with AWS cloud services including Lambda, S3, SQS, Kinesis, Firehose
 
 ---
 
-## Programmer Analyst Intern | AVAN IT LLC
+## Full Stack Developer | Nomura
 📅 Dec 2024 – April 2025
 
 - Developed RESTful APIs and backend services using Node.js
@@ -126,7 +126,7 @@ Experienced with AWS cloud services including Lambda, S3, SQS, Kinesis, Firehose
 ---
 
 ## Developer | Texas Review
-📅 April 2021 – Nov 2022
+📅 April 2019 – Nov 2022
 
 - Developed responsive web applications using Java, React.js, HTML5, and CSS3
 - Built and integrated REST APIs with enterprise systems
